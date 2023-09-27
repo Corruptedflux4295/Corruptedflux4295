@@ -1,0 +1,76 @@
+<section id="dnd-content">
+    <div class="container">
+        <h2>Your DND Page</h2>
+        <p>
+            Welcome to the world of Dungeons & Dragons (DND)! Here, you'll find a treasure trove of information, adventures, and tips to enhance your DND experience.
+        </p>
+        <h3>Featured Content</h3>
+        <div class="featured-content">
+            <div class="content-item">
+                <img src="dnd-adventure.jpg" alt="DND Adventure">
+                <h4>Epic Adventures</h4>
+                <p>Embark on epic quests filled with magic, monsters, and mysteries. Dive into the world of DND with our exciting adventures.</p>
+            </div>
+            <div class="content-item">
+                <img src="character-tips.jpg" alt="Character Tips">
+                <h4>Character Tips</h4>
+                <p>Learn how to create and develop memorable DND characters. Discover character-building tips and strategies.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<style>
+    #dnd-content {
+        background-color: #fff;
+        padding: 40px 0;
+    }
+
+    #dnd-content .container {
+        text-align: center;
+    }
+
+    #dnd-content h2 {
+        color: #333;
+    }
+
+    #dnd-content p {
+        font-size: 18px;
+        line-height: 1.6;
+    }
+
+    #dnd-content h3 {
+        color: #333;
+        margin-top: 20px;
+    }
+
+    .featured-content {
+        display: flex;
+        justify-content: space-around;
+        margin-top: 20px;
+    }
+
+    .content-item {
+        width: 45%;
+        padding: 20px;
+        background-color: #f0f0f0;
+        border-radius: 5px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        text-align: center;
+    }
+
+    .content-item img {
+        max-width: 100%;
+        border-radius: 5px;
+    }
+
+    .content-item h4 {
+        color: #333;
+        margin-top: 10px;
+    }
+
+    .content-item p {
+        font-size: 16px;
+        line-height: 1.6;
+    }
+</style>
