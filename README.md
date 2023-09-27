@@ -1,34 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Your DND Gaming Page</title>
-    <style>
-        body {
-            font-family: 'Comic Sans MS', cursive;
-            background-color: #f0f0f0;
-            margin: 0;
-            padding: 0;
-        }
-        header {
-            background-color: #333;
-            color: white;
-            text-align: center;
-            padding: 20px;
-        }
-        .container {
-            max-width: 800px;
-            margin: 20px auto;
-            padding: 20px;
-            background-color: white;
-            border-radius: 5px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            color: #333;
-        }
-        p {
-            line-height: 1.6;
-        }
+
     </style>
 </head>
 <body>
